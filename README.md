@@ -1,3 +1,7 @@
+# Smart Traffic Control System
+
+**Tagline:** Smart Traffic 4-Ways Intersection Controller with Emergency Override and Adaptive Timing
+
 ## 1. Project Description
 
 ### Overview
